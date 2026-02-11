@@ -1,0 +1,21 @@
+{
+  "name": "claudetutor",
+  "version": "0.1.0",
+  "description": "Claude Code plugin — learn deeply from your code changes",
+  "license": "MIT",
+  "type": "module",
+  "files": [
+    ".claude-plugin",
+    "plugins"
+  ],
+  "keywords": ["claude", "claude-code", "plugin", "learning", "code-tutor", "spaced-repetition"],
+  "author": "claudetutor contributors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harish-coeff/claudetutor.git"
+  },
+  "homepage": "https://github.com/harish-coeff/claudetutor",
+  "bugs": {
+    "url": "https://github.com/harish-coeff/claudetutor/issues"
+  }
+}

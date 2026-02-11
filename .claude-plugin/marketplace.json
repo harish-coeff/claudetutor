@@ -1,0 +1,24 @@
+{
+  "name": "claudetutor",
+  "owner": {
+    "name": "claudetutor contributors"
+  },
+  "metadata": {
+    "description": "Learn deeply from your code changes inside Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claudetutor",
+      "source": "./plugins/claudetutor",
+      "description": "Learn deeply from code changes — explain mode, Socratic challenges, quizzes, spaced repetition, debugging challenges, code review training, and concept mapping.",
+      "version": "0.1.0",
+      "author": {
+        "name": "claudetutor contributors"
+      },
+      "homepage": "https://github.com/harish-coeff/claudetutor",
+      "tags": ["learning", "code-tutor", "spaced-repetition", "socratic", "quiz", "debugging", "code-review"],
+      "category": "learning"
+    }
+  ]
+}

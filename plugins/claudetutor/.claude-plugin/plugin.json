@@ -1,23 +1,7 @@
 {
   "name": "claudetutor",
-  "version": "0.1.0",
   "description": "Learn deeply from code changes — explain mode, Socratic challenges, quizzes, spaced repetition, debugging challenges, code review training, and concept mapping.",
   "author": {
     "name": "claudetutor contributors"
-  },
-  "repository": "https://github.com/harish-coeff/claudetutor",
-  "homepage": "https://github.com/harish-coeff/claudetutor",
-  "license": "MIT",
-  "keywords": [
-    "learning",
-    "code-tutor",
-    "spaced-repetition",
-    "socratic",
-    "quiz",
-    "debugging",
-    "code-review"
-  ],
-  "commands": "commands/learn",
-  "agents": "agents",
-  "skills": "skills"
+  }
 }
